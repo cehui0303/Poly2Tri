@@ -1,5 +1,5 @@
 # Poly2Tri for C#
-A C# Port of https://github.com/jhasse/poly2tri
+A C# Port of https://github.com/jhasse/poly2tri  可以将多边形剖分为denaulay三角形，适合凸和凹多边形
 
 Examples included for both WPF and WinForms. I may add more if I get the time.
 
